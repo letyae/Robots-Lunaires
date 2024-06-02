@@ -16,7 +16,8 @@ Afin de contrôler un robot, la NASA envoie une simple suite de lettres.
 Les lettres possibles sont L, R et M. L et R font tourner le robot de 90 degrés gauche ou droit respectivement, sans bouger de son emplacement actuel. M signifie avancer d'un point de grille et maintenir le même cap. Supposons que le carré directement au nord de (x, y) est (x, y + 1).
 
 # Format des données
-Entrée
+
+# Entrée
 
 # Ligne 1 : 
 
